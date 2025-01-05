@@ -1,6 +1,6 @@
 # Fantastic Sentences
 
-[English](README-EN.md) | [简体中文](README.md)
+[English](README-EN.md) | [简体中文](README.md) | [繁體中文](README-ZHrTW.md)
 
 **Warning: 该存储库处于早期状态，东西非常少。作者将持续更新，当然也欢迎任何人一起完善。**
 
