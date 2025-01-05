@@ -2,6 +2,8 @@
 
 [English](README-EN.md) | [简体中文](README.md)
 
+**Warning: 该存储库处于早期状态，东西非常少。作者将持续更新，当然也欢迎任何人一起完善。**
+
 ## 这是什么？
 
 想起动画里有一些精彩的句子，却很后悔当时没有及时记下来？
@@ -17,6 +19,10 @@
 ## 作者的局限性
 
 因为 @SamHou0 只会中文和英语，只能看字幕组或者翻译者的译文，所以部分原文可能缺失。欢迎各位 PR 补充。
+
+## 作出贡献
+
+你可以使用 [fantastic-sentence-explorer](https://github.com/SamHou0/fantastic-sentence-explorer)，非常方便地编辑和创建内容。具体格式，请参考 [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 使用这里面的内容，需要遵守什么？
 
