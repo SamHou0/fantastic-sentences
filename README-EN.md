@@ -2,7 +2,7 @@
 
 [English](README-EN.md) | [简体中文](README.md) | [繁體中文](README-ZHrTW.md)
 
-Warning: This repository is in its early stages and contains very little content. The author will continue to update it, and of course, anyone is welcome to contribute and improve it.
+**Warning: This repository is in its early stages and contains very little content. The author will continue to update it, and of course, anyone is welcome to contribute and improve it.**
 
 ## What is this?
 Have you ever thought of some fantastic sentences from an anime, but regretted not writing them down at the time?
