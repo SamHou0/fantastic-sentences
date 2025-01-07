@@ -9,7 +9,7 @@ Have you ever thought of some fantastic sentences from an anime, but regretted n
 
 Or maybe, you’re looking for some sentences to make your writing more interesting?
 
-That's why this repository exists! This repository contains everything you need—from memorable lines from anime to famous quotes by celebrities, it’s all here.
+That's why this repository exists! This repository contains everything you need, from memorable lines from anime to famous quotes by celebrities, it’s all here.
 
 ## But why can't I found the sentences I want?
 What?! You can’t find what you want? Well, I have to admit that this repository is indeed sparse, as this is not a single-person job! You’re welcome to add any sentences you like to this repository. Please submit a PR directly!
